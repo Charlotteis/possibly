@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Charlotteis/possibly.svg?branch=hello_world)](https://travis-ci.org/Charlotteis/possibly)[![Coverage Status](https://coveralls.io/repos/github/Charlotteis/possibly/badge.svg?branch=master)](https://coveralls.io/github/Charlotteis/possibly?branch=master)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.  
@@ -11,7 +13,6 @@ You can find the most recent version of this guide [here](https://github.com/fac
 - [Available Scripts](#available-scripts)
   - [npm start](#npm-start)
   - [npm test](#npm-test)
-  - [npm run build](#npm-run-build)
   - [npm run eject](#npm-run-eject)
 - [Displaying Lint Output in the Editor](#displaying-lint-output-in-the-editor)
 - [Installing a Dependency](#installing-a-dependency)
@@ -361,7 +362,7 @@ Inside `index.html`, you can use it like this:
 
 Only files inside the `public` folder will be accessible by `%PUBLIC_URL%` prefix. If you need to use a file from `src` or `node_modules`, you’ll have to copy it there to explicitly specify your intention to make this file a part of the build.
 
-When you run `npm run build`, Create React App will substitute `%PUBLIC_URL%` with a correct absolute path so your project works even if you use client-side routing or host it at a non-root URL. 
+When you run `npm run build`, Create React App will substitute `%PUBLIC_URL%` with a correct absolute path so your project works even if you use client-side routing or host it at a non-root URL.
 
 In JavaScript code, you can use `process.env.PUBLIC_URL` for similar purposes:
 
