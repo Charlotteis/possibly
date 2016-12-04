@@ -4,7 +4,7 @@
   "private": true,
   "devDependencies": {
     "coveralls": "^2.11.14",
-    "react-scripts": "0.7.0",
+    "react-scripts": "0.8.1",
     "standard": "^8.4.0"
   },
   "dependencies": {
