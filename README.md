@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Charlotteis/possibly.svg?branch=hello_world)](https://travis-ci.org/Charlotteis/possibly)[![Coverage Status](https://coveralls.io/repos/github/Charlotteis/possibly/badge.svg?branch=master)](https://coveralls.io/github/Charlotteis/possibly?branch=master)
+[![Build Status](https://travis-ci.org/Charlotteis/possibly.svg?branch=hello_world)](https://travis-ci.org/Charlotteis/possibly) [![Coverage Status](https://coveralls.io/repos/github/Charlotteis/possibly/badge.svg?branch=master)](https://coveralls.io/github/Charlotteis/possibly?branch=master)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
