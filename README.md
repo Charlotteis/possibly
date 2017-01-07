@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Charlotteis/possibly.svg?branch=hello_world)](https://travis-ci.org/Charlotteis/possibly) [![Coverage Status](https://coveralls.io/repos/github/Charlotteis/possibly/badge.svg?branch=master)](https://coveralls.io/github/Charlotteis/possibly?branch=master)
+[![License](https://img.shields.io/github/license/charlotteis/possibly.svg)](https://github.com/Charlotteis/possibly/blob/master/LICENSE.md) [![Travis Build Status](https://travis-ci.org/Charlotteis/possibly.svg?branch=hello_world)](https://travis-ci.org/Charlotteis/possibly) [![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/github/charlotteis/possibly?svg=true)](https://ci.appveyor.com/project/Charlotteis/possibly) [![Coverage Status](https://coveralls.io/repos/github/Charlotteis/possibly/badge.svg?branch=master)](https://coveralls.io/github/Charlotteis/possibly?branch=master)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
