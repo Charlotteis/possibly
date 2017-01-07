@@ -16,6 +16,7 @@
     "build": "react-scripts build",
     "pretest": "standard",
     "test": "react-scripts test --env=jsdom --coverage && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js",
+    "test-travis": "react-scripts test --env=jsdom --coverage",
     "eject": "react-scripts eject"
   },
   "description": "I will possibly...",
