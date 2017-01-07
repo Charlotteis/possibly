@@ -10,6 +10,7 @@ platform:
 install:
   - ps: Install-Product node $env:nodejs_version $env:platform
   - npm config set spin false
+  - npm cache clean
   - npm install
 
 test_script:
